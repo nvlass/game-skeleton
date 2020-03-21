@@ -1,0 +1,8 @@
+{:deps {org.clojure/clojure                                {:mvn/version "1.10.1"}
+        com.badlogicgames.gdx/gdx                          {:mvn/version "1.9.9"}
+        com.badlogicgames.gdx/gdx-backend-lwjgl            {:mvn/version "1.9.9"}
+        com.badlogicgames.gdx/gdx-platform$natives-desktop {:mvn/version "1.9.9"}
+        com.badlogicgames.gdx/gdx-tools                    {:mvn/version "1.9.9"}
+        seesaw                                             {:mvn/version "1.5.0"}}
+ :paths ["src"]}
+ 
